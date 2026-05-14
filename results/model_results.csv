@@ -1,9 +1,9 @@
 task,model,accuracy,macro_f1
-Access Risk Prediction,Logistic Regression,1.0,1.0
-Access Risk Prediction,Random Forest,1.0,1.0
-Access Risk Prediction,Gradient Boosting,1.0,1.0
-Access Risk Prediction,Neural Network,1.0,1.0
-Support Recommendation,Logistic Regression,0.486013986013986,0.23094542229201656
-Support Recommendation,Random Forest,1.0,1.0
-Support Recommendation,Gradient Boosting,1.0,1.0
-Support Recommendation,Neural Network,0.548951048951049,0.3089975591089143
+Access Risk Prediction,Logistic Regression,0.8658,0.8096
+Access Risk Prediction,Random Forest,0.9616,0.9466
+Access Risk Prediction,Gradient Boosting,0.9954,0.9939
+Access Risk Prediction,Neural Network,0.7717,0.6234
+Support Recommendation,Logistic Regression,0.3543,0.1715
+Support Recommendation,Random Forest,0.9817,0.9672
+Support Recommendation,Gradient Boosting,0.9945,0.9693
+Support Recommendation,Neural Network,0.1406,0.0827
